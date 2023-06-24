@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivshankaru
+- 👋 Hi, I’m @shivshankar
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning web designing tools
 - 💞️ I’m looking to collaborate on ...
