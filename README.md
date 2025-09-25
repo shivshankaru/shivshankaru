@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivShankar
 - 👀 A passionate AWS DevSecOps Engineer from India
-- 📫 How to reach me sshankar1994@gmail.com
+
 - 🌱 I’m currently working on AWS Cloud & DevSecOps tools
 - 💞️ I’m looking to collaborate on ...
 <!---
@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshankaru&label=Profile%20views&color=0e75b6&style=flat" alt="shivshankar" /> </p>
 
-
-- 📫 How to reach me ** sshankar1994@@gmail.com **
+- 📫 How to reach me sshankar1994@gmail.com
 
 </p>
 
