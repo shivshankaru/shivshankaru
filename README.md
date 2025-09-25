@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @ShivShankar
-- 👀 A passionate AWS DevSecOps Engineer from India
-
-- 🌱 I’m currently working on AWS Cloud & DevSecOps tools
-- 💞️ I’m looking to collaborate on ...
-<!---
-shivshankaru/shivshankaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> AWS ,bash ,css3 ,HTML5 ,javascript  ,docker ,git ,github ,grafana  ,jenkins  ,kubernetes ,linux ,nginx ,python ,Maven ,apache ,tomcat , nexus
-<h1 align="center">Hi 👋, I'm Shiv Shankar</h1>
 <h3 align="center">A passionate AWS DevSecOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshankaru&label=Profile%20views&color=0e75b6&style=flat" alt="shivshankar" /> </p>
