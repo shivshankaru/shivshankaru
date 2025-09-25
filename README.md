@@ -7,16 +7,15 @@
 shivshankaru/shivshankaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> AWS ,bash ,css3 ,HTML5 ,javascript  ,docker ,git ,github ,grafana  ,jenkins  ,kubernetes ,linux ,nginx ,python ,Maven ,apache ,tomcat , nexus<h1 align="center">Hi 👋, I'm Reyaz Shaik</h1>
-<h3 align="center">A passionate AWS DevOps Engineer / Trainer / Consultant from India</h3>
+<h3 align="center">A passionate AWS DevSecOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyazshaik&label=Profile%20views&color=0e75b6&style=flat" alt="reyazshaik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshankaru&label=Profile%20views&color=0e75b6&style=flat" alt="shivshankar" /> </p>
 
 
-- 📫 How to reach me **trainerreyaz@gmail.com**
+- 📫 How to reach me **sshankar1994@@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/groups/awsbyreyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/groups/awsbyreyaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
