@@ -6,7 +6,8 @@
 <!---
 shivshankaru/shivshankaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> AWS ,bash ,css3 ,HTML5 ,javascript  ,docker ,git ,github ,grafana  ,jenkins  ,kubernetes ,linux ,nginx ,python ,Maven ,apache ,tomcat , nexus<h1 align="center">Hi 👋, I'm Reyaz Shaik</h1>
+---> AWS ,bash ,css3 ,HTML5 ,javascript  ,docker ,git ,github ,grafana  ,jenkins  ,kubernetes ,linux ,nginx ,python ,Maven ,apache ,tomcat , nexus
+<h1 align="center">Hi 👋, I'm Shiv Shankar</h1>
 <h3 align="center">A passionate AWS DevSecOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshankaru&label=Profile%20views&color=0e75b6&style=flat" alt="shivshankar" /> </p>
@@ -14,8 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **sshankar1994@@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
