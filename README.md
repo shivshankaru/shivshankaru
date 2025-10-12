@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋 I'm Shiv Shankar Kumar </h1><h3 align="center">A passionate AWS & Azure DevSecOps Engineer from India</h3>
+<h1 align="center">Hi 👋 I'm Shiv Shankar Kumar </h1>
+<h3 align="center">A passionate AWS & Azure DevSecOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshankaru&label=Profile%20views&color=0e75b6&style=flat" alt="shivshankar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshankar94&label=Profile%20views&color=0e75b6&style=flat" alt="ShivShankar94" /> </p>
 
 
 - 📫 How to reach me sshankar1994@gmail.com
@@ -49,3 +50,4 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivShankar94&show_icons=true&locale=en&layout=compact" alt="ShivShankar94" /></p>
